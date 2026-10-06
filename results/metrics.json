@@ -1,0 +1,1 @@
+{"best_model": "HGB", "best_params": {"m__learning_rate": 0.05, "m__max_depth": 3, "m__max_iter": 200}, "best_cv_rmse": 27277.089926744102}
